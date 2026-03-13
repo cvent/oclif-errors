@@ -39,10 +39,10 @@
   resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.2.14.tgz#44d2dd0b5de6185089375d976b4ec5caf6861193"
   integrity sha512-G+ITQPXkwTrslfG5L/BksmbLUA0M1iybEsmCWPqzSxsRRhJZimBKJkoMi8fr/CPygPTj4zO5pJH7I2/cm9M7SQ==
 
-"@types/clean-stack@^2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@types/clean-stack/-/clean-stack-2.1.1.tgz#7dd5430b733d088263b01653ea0ec39af9fe67f1"
-  integrity sha512-J5uaZmvDUsqeT7Vct/oHQuAGUzJBWmN9x33TlvTfvIMmCZ2Ep6v/09wKsK5cLtOTJJe6tGcMTg8TwP/h6e1svw==
+"@types/clean-stack@^2.1.4":
+  version "2.1.4"
+  resolved "https://nexus.core.cvent.org/nexus/repository/npm-public/@types/clean-stack/-/clean-stack-2.1.4.tgz#33925e9a1636c255c77467a9c14f11b76cf1a2fa"
+  integrity sha512-FUgkoGXw/qsqqlX0Ma6qhwOnMzZHCcJoOy1k7dvIor9U0/wcu1n+pe2UQGGXVpm+Dr5wVoVDZ1kEBHrsXDIkag==
   dependencies:
     clean-stack "*"
 
